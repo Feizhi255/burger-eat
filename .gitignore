@@ -1,0 +1,6 @@
+node_modules
+password.js
+bu.sql
+.DS_Store
+.idea
+.env
